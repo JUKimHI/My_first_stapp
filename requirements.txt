@@ -2,3 +2,5 @@ plotly
 matplotlib
 numpy
 pandas
+geopandas
+folium
